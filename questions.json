@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What makes a password strong?",
+      "options": ["Name123", "qwerty", "123456", "Symbols"],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "Which is a phishing sign?",
+      "options": ["Friend", "Official", "Fake link", "Verified"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "2FA means?",
+      "options": ["Two-Factor", "Firewall", "Backdoor", "Admin"],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "Best action for suspicious link?",
+      "options": ["Click", "Share", "Ignore", "Bookmark"],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Malware is?",
+      "options": ["Email", "Virus", "App", "Cookie"],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Safe on public Wi-Fi?",
+      "options": ["Banking", "VPN", "Shopping", "Login"],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Secure site symbol?",
+      "options": ["http", "🔒https", "www", "ftp"],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Digital footprint is?",
+      "options": ["Shoes", "Data", "Scan", "Cookie"],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Store passwords?",
+      "options": ["Paper", "Notebook", "Browser", "Manager"],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "Cyberbullying is?",
+      "options": ["Prank", "Joke", "Leak", "Like"],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Type of social engineering?",
+      "options": ["Phishing", "Brute force", "Firewall", "Update"],
+      "answer": 0
+    },
+    {
+      "id": 12,
+      "question": "If hacked, do?",
+      "options": ["Ignore", "Logout", "Report", "Tweet"],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Don’t post online?",
+      "options": ["Food", "Schedule", "Pet", "Game"],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Update password?",
+      "options": ["Never", "Yearly", "Monthly", "Regularly"],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "Ransomware?",
+      "options": ["Gift", "Locker", "Update", "Game"],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Why logout public PC?",
+      "options": ["Battery", "Privacy", "Speed", "Noise"],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "Secure password?",
+      "options": ["iloveyou", "Password", "Admin123", "P@ssW0rd!"],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "Antivirus use?",
+      "options": ["Boost", "Scan", "Delete", "Block"],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Unsafe habit?",
+      "options": ["2FA", "Share", "Manager", "VPN"],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "Firewall use?",
+      "options": ["Games", "Ads", "Block", "Speed"],
+      "answer": 2
+    }
+  ]
+}
